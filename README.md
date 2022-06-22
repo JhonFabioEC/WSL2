@@ -1,6 +1,6 @@
 # WSL2
 
-![Img_01](Img/img_01.png)
+![Img_01](Img/Img_01.png)
 
 ## Agenda
 1. [Arquitectura][1_0]
