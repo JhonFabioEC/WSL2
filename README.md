@@ -7,11 +7,11 @@
 1. [Ventajas][1_1]
 1. [Instalación][1_2]
 
-[1_0]:https://github.com/JhonFabioEC/WSL2/tree/main/2-Arquitectura
+[1_0]:https://github.com/JhonFabioEC/WSL2/tree/main/1-Arquitectura
 
-[1_1]:https://github.com/JhonFabioEC/WSL2/tree/main/3-Ventajas
+[1_1]:https://github.com/JhonFabioEC/WSL2/tree/main/2-Ventajas
 
-[1_2]:https://github.com/JhonFabioEC/WSL2/tree/main/4-Instalacion
+[1_2]:https://github.com/JhonFabioEC/WSL2/tree/main/3-Instalacion
 
 ## Realizado Por
 1. [Errol Vladimir Garcia Silva][1_3]
