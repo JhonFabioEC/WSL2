@@ -10,12 +10,18 @@ Las principales ventajas de WSL 2 frente a una [<b>máquina virtual</b>][1_0] so
 
 * WSL 2 solo se ejecuta cuando lo necesitamos y solo carga los procesos y servicios necesarios para lo que necesitamos hacer.
 
+* WSL 2 cuenta con un hipervisor nativo que permite ejecutar un Kernel real directamente en Windows.
+
 [1_0]:https://es.wikipedia.org/wiki/M%C3%A1quina_virtual
+
+![img1](img/imagen1.png)
 
 ---
 
 ## <b>Mas Información</b>
 
 * [Todo sobre WSL, la mejor forma de instalar Linux en Windows 10][1_1]
+* [Que es el Windows Subsystem Linux](1_2)
 
 [1_1]:https://di.sld.cu/todo-sobre-wsl-la-mejor-forma-de-instalar-linux-en-windows-10/
+[1_2]:https://www.softzone.es/windows/como-se-hace/subsistema-windows-linux/
