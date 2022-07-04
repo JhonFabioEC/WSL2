@@ -1,7 +1,7 @@
 # <b>COMANDOS BÁSICOS DE WSL 2</b>
 
-|     <b>COMANDO</b>    |     <b>DESCRIPCIÓN</b>    |
-|:---|:---|
+|     <b>COMANDO</b>    |     <text style="display:block; text-align: Justify"><b>DESCRIPCIÓN</b></text>    |
+|:---:|---|
 |     `wsl --list --online`    |     Sirve para consultar una lista de las distribuciones de Linux   disponibles a través de la tienda en línea. Este comando también se puede   especificar como `wsl -l -o`.    |
 |     `wsl --list --verbose` |     Sirve para consultar una lista de las distribuciones de Linux   instaladas en la máquina Windows, incluido el estado y la versión de WSL que   ejecuta la distribución. Este comando también se puede especificar como `wsl   -l -v`.    |
 |     `wsl --update`    |     Sirve para actualizar manualmente la versión del núcleo de Linux de   WSL. También puede usar el comando `wsl --update rollback` para revertir a una   versión anterior del kernel de Linux de WSL.    |

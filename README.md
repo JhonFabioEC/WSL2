@@ -3,6 +3,7 @@
 ![Img_01](Img/Img_01.png)
 
 ## <b>Agenda</b>
+
 1. [Arquitectura][1_0]
 1. [Ventajas][1_1]
 1. [Instalación][1_2]
@@ -19,6 +20,7 @@
 ---
 
 ## <b>Realizado Por</b>
+
 1. [Errol Vladimir Garcia Silva][2_0]
 1. [Diego Marcelo Jimenez Melendez][2_1]
 1. [Jhon Fabio España Cortes][2_2]
