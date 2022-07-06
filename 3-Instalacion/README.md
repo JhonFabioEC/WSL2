@@ -121,3 +121,11 @@
 ![Img_060](Img/Img_instalacion_060.png)
 
 ![Img_061](Img/Img_instalacion_061.png)
+
+![Img_062](Img/Img_instalacion_062.png)
+
+![Img_063](Img/Img_instalacion_063.png)
+
+![Img_064](Img/Img_instalacion_064.png)
+
+![Img_065](Img/Img_instalacion_065.png)

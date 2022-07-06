@@ -1,6 +1,6 @@
 # <b>WSL2</b>
 
-![Img_01](Img/Img_01.png)
+![Img_001](Img/Img_001.png)
 
 ## <b>Agenda</b>
 
