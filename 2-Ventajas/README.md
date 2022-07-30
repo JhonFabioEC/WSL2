@@ -1,8 +1,6 @@
-# <b>VENTAJAS DE WSL 2</b>
+# **VENTAJAS DE WSL 2**
 
-<text style="display:block; text-align: Justify">
-
-Las principales ventajas de WSL 2 frente a una [<b>máquina virtual</b>][1_0] son:
+Las principales ventajas de WSL 2 frente a una [**máquina virtual**][1_0] son:
 
 * WSL 2 está totalmente integrado con Windows, a diferencia de una máquina virtual que está aislado.
 
@@ -14,13 +12,11 @@ Las principales ventajas de WSL 2 frente a una [<b>máquina virtual</b>][1_0] so
 
 * WSL 2 cuenta con un hipervisor nativo que permite ejecutar un Kernel real directamente en Windows.
 
-</text>
-
 [1_0]:https://es.wikipedia.org/wiki/M%C3%A1quina_virtual
 
-## <b>COMPARACIÓN DE WSL 1 CON WSL 2</b>
+## **COMPARACIÓN DE WSL 1 CON WSL 2**
 
-|     <text style="display:block; text-align: Center"><b>CARACTERÍSTICA</b></text>    |     <b>WSL 1</b> |     <b>WSL 2</b> |
+|     <text style = "display:block; text-align: Center">**CARACTERÍSTICA**</text>    |     **WSL 1** |     **WSL 2** |
 |---|:---:|:---:|
 |     Integración entre Windows y Linux |     :white_check_mark:    |     :white_check_mark:    |
 |     Tiempos de arranque rápidos |     :white_check_mark:    |     :white_check_mark:    |
@@ -33,7 +29,7 @@ Las principales ventajas de WSL 2 frente a una [<b>máquina virtual</b>][1_0] so
 
 ---
 
-## <b>Mas Información</b>
+## **Mas Información**
 
 * [Todo sobre WSL, la mejor forma de instalar Linux en Windows 10][1_1]
 

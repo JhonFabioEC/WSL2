@@ -1,8 +1,8 @@
-# <b>WSL2</b>
+# **WSL2**
 
 ![Img_001](Img/Img_001.png)
 
-## <b>Agenda</b>
+## **Agenda**
 
 1. [Arquitectura][1_0]
 1. [Ventajas][1_1]
@@ -19,7 +19,7 @@
 
 ---
 
-## <b>Realizado Por</b>
+## **Realizado Por**
 
 1. [Errol Vladimir Garcia Silva][2_0]
 1. [Diego Marcelo Jimenez Melendez][2_1]

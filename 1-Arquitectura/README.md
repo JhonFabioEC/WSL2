@@ -1,36 +1,24 @@
-# <b>¿QUÉ ES WSL 2?</b>
+# **¿QUÉ ES WSL 2?**
 
 ![Img_01](Img/Img_arquitectura_001.png)
 
-<text style="display:block; text-align: Justify">
-
-Windows Subsystem for Linux 2, mejor conocido como WSL 2, es una versión más reciente y fácil de usar de WSL, la cual es una [<b>capa de compatibilidad</b>][1_0] que fue desarrollada por Microsoft, con el fin de permitir el acceso a las distintas herramientas y aplicaciones de Linux, directamente desde un entorno de Windows.
-
-</text>
+Windows Subsystem for Linux 2, mejor conocido como WSL 2, es una versión más reciente y fácil de usar de WSL, la cual es una [**capa de compatibilidad**][1_0] que fue desarrollada por Microsoft, con el fin de permitir el acceso a las distintas herramientas y aplicaciones de Linux, directamente desde un entorno de Windows.
 
 [1_0]:https://es.wikipedia.org/wiki/Capa_de_compatibilidad
 
-## <b>REQUISITOS DE WSL 2</b>
-
-<text style="display:block; text-align: Justify">
+## **REQUISITOS DE WSL 2**
 
 Los requisitos del sistema para la utilización de WSL 2 dependen del procesador que el ordenador tenga instalado:
 
-* Para sistemas <b>x64</b> se requiere como mínimo la versión <b>1903</b> con build <b>18362</b> o superior.
+* Para sistemas **x64** se requiere como mínimo la versión **1903** con build **18362** o superior.
 
-* Para sistemas <b>ARM64</b> se requiere como mínimo la versión <b>2004</b> con build <b>19041</b> o superior.
+* Para sistemas **ARM64** se requiere como mínimo la versión **2004** con build **19041** o superior.
 
-</text>
+## **ARQUITECTURA DE WSL 2**
 
-## <b>ARQUITECTURA DE WSL 2</b>
+Esta versión está disponible desde junio del 2019, donde esta introdujo cambios radicales en su arquitectura, optando a su vez por la virtualización a través de un subconjunto de características de [**Hyper-V**][1_1], junto con un [**núcleo Linux real**][1_2] altamente optimizado (basado en la rama principal 4.19), habilitando así un acceso completo a la API de Linux, permitiendo la ejecución de servicios como [**Docker**][1_3].
 
-<text style="display:block; text-align: Justify">
-
-Esta versión está disponible desde junio del 2019, donde esta introdujo cambios radicales en su arquitectura, optando a su vez por la virtualización a través de un subconjunto de características de [<b>Hyper-V</b>][1_1], junto con un [<b>núcleo Linux real</b>][1_2] altamente optimizado (basado en la rama principal 4.19), habilitando así un acceso completo a la API de Linux, permitiendo la ejecución de servicios como [<b>Docker</b>][1_3].
-
-La instalación de la distribución reside en su propia imagen de disco virtual con formato [<b>ext4</b>][1_4], y el acceso al sistema de archivos anfitrión se lleva a cabo de manera transparente a través del [<b>protocolo 9P</b>][1_5]. Se promete un incremento sustancial en el rendimiento de lectura y escritura.
-
-</text>
+La instalación de la distribución reside en su propia imagen de disco virtual con formato [**ext4**][1_4], y el acceso al sistema de archivos anfitrión se lleva a cabo de manera transparente a través del [**protocolo 9P**][1_5]. Se promete un incremento sustancial en el rendimiento de lectura y escritura.
 
 [1_1]:https://es.wikipedia.org/wiki/Hyper-V
 
@@ -46,7 +34,7 @@ La instalación de la distribución reside en su propia imagen de disco virtual 
 
 ---
 
-## <b>Mas Información</b>
+## **Mas Información**
 
 * [Windows Subsystem for Linux][1_6]
 
