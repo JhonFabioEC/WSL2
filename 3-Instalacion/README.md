@@ -300,3 +300,11 @@ Una vez hecho lo anterior, procederemos a abrir nuevamente el terminal como admi
 Y listo, una vez que hemos verificado este cambio, ya podríamos decir que hemos tenemos instalado el wsl 2 y ya podríamos dar por finalizado este tutorial.
 
 ![Img_062](Img/Img_instalacion_062.png)
+
+
+
+## **Mas Información**
+
+* [Todo sobre WSL, la mejor forma de instalar Linux en Windows 10][1_1]
+
+[1_1]:https://docs.microsoft.com/en-us/windows/wsl/install
